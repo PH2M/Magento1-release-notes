@@ -10,3 +10,6 @@ Magento 1 archives
 
 [Magento Patch Mirror](https://github.com/akai-z/magento1-open-source-patches)
 Magento 1 patch archives
+
+[Magento Modules](https://github.com/OpenMageModuleFostering)
+Magento 1 old module archives
